@@ -88,7 +88,10 @@ nav ul {
 	align-items: center;
 	margin-right: .5rem;
 }
-
+.open-ul{
+    height: 300px;
+    padding: 1rem;
+}
 nav ul li {
 	list-style: none;
 	padding: .5rem;
