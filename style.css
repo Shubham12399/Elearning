@@ -96,9 +96,9 @@ nav ul {
 	margin-right: .5rem;
 }
 .open-ul{
-    height: 300px;
+    height: auto;
     padding: 1rem;
-    padding-bottom:2.5rem;
+    
 }
 nav ul li {
 	list-style: none;
