@@ -13,7 +13,7 @@
 
 @font-face {
 	font-family: "poppins-regular";
-	src: url("/storage/emulated/0/Fonts/Poppins (1)/Poppins-Regular.ttf");
+	src: url("./Poppins-Regular.ttf");
 }
 
 * {
@@ -25,12 +25,12 @@
 
 @font-face {
 	font-family: "poppins-bold";
-	src: url("/storage/emulated/0/Fonts/Poppins (1)/Poppins-Bold.ttf");
+	src: url("./Poppins-Bold.ttf");
 }
 
 @font-face {
 	font-family: "poppins-ExtraBold";
-	src: url("/storage/emulated/0/Fonts/Poppins (1)/Poppins-ExtraBold.ttf");
+	src: url("./Poppins-ExtraBold.ttf");
 }
 ::selection{
     background: var(--btn-bg);
