@@ -3,7 +3,7 @@
         width: auto;
     }
 	 .logo-bar-sec{
-    max-width: 150px !important;
+    display: inline;
     border: 1px solid red;
     }
 }
