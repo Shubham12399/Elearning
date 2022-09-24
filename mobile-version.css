@@ -2,6 +2,10 @@
     .dark-sec{
         width: auto;
     }
+	.logo-bar-sec{
+    max-width: 200px !important;
+    
+    }
 }
 @media (max-width:768px){
   .tag-box {
