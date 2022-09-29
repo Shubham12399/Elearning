@@ -1,0 +1,117 @@
+.black-theme{
+    background: black;
+}
+.black-theme *{
+    color: white;
+}
+
+.black-theme header{
+    background: black;
+    border-bottom: 1px solid rgba(299,299,299,0.2);
+}
+.black-theme header nav{
+    background: black;
+}
+.black-theme header nav .logo {
+    color: white;
+}
+.black-theme header nav ul{
+    background: black;
+}
+.black-theme header nav .open-ul{
+    border: 2px solid rgba(299,299,299,0.2);
+}
+.black-theme header nav ul li a{
+    color: white;
+}
+.black-theme header nav ul li a:hover{
+    color: var(--focus);
+}
+.black-theme .bar-sec *{
+    background: white;
+}
+.black-theme .hero-section .hero-content h1{
+    color: white;
+}
+.black-theme .hero-section .hero-img img {
+	
+}
+.black-theme .tag-section{
+    background: black;
+}
+.black-theme .tag-section .tag-title{
+    color: white;
+}
+.black-theme .tag-section h1{
+    color: white;
+}
+.black-theme .tag-box .tag-item{
+    background: rgba(299,299,299,0.07);
+    color: white;
+    border: 1px solid rgba(299,299,299,0.2);
+}
+.black-theme .tag-box .hover-effect{
+    
+}
+.black-theme .tag-box .tag-item img,.black-theme .contents .items img{
+    filter: brightness(0) invert(1);
+}
+
+.black-theme .contents .items{
+    background: rgba(299,299,299,0.07);
+    border: 1px solid rgba(299,299,299,0.2);
+    color: white;
+}
+.black-theme p{
+    color: white;
+}
+.black-theme .hover-effect{
+    transform: scale(1.15);
+    background: rgba(299,299,299,0.15) !important;
+}
+.black-theme .partner-section{
+    background: black;
+    border-top: 1px solid rgba(299,299,299,0.2);
+    border-bottom: 1px solid rgba(299,299,299,0.2);
+}
+.black-theme h1{
+    color: white;
+}
+
+/* Dark-mode */
+.black-theme .dark-mode-switch{    
+    
+}
+.black-theme .dark-mode-switch label{
+    background:#717171;
+    position: relative;
+    width: 100%;
+    height: 20px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.black-theme .dark-mode-switch i:nth-child(1){
+    visibility: hidden;
+    opacity: 0;
+}
+.black-theme .dark-mode-switch i:nth-child(2){
+   visibility:visible;
+   opacity: 100;
+   color:white;
+   transition: all .2s ease;
+}
+.black-theme .dark-mode-switch .move-toggle{   
+    left: calc(100% - 24px);
+    background: black;
+    
+}
+.black-theme footer{
+    background: black;
+    border-top: 2px solid rgba(299,299,299,0.2);
+}
+.black-theme .touch-icon a img{
+    filter: brightness(0) invert(1);
+}
+
