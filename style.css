@@ -82,7 +82,7 @@ h1 {
 }
 
 header {
-	width: 100vw;
+	
 	margin-bottom: 1rem;
 	font-family: poppins-regular;
 	background: #f2f2f2;
@@ -438,7 +438,7 @@ section.tag-section {
 
 /* Partner Section  */
 .partner-section {
-	width: 100vw;
+	
 	background: #f2f2f2;
 	padding: 1rem;
 	display: flex;
